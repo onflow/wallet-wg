@@ -30,7 +30,7 @@ The Flow Wallet Working Group aims to enhance wallets on Flow through the develo
 | FRW - Secure Encalve (Mobile)                      | PROGRESS  | FRW v2.1       | [Track]() (TBD) |Enables secure enclave support in Flow Reference Wallet|
 | FRW - Multi-Divice support                         | PROGRESS  | FRW v2.1       | [Track]() (TBD) |Enables multiple Flow Reference Wallet apps across different devices to manage the same Flow account|
 | FRW - Secure Enclave Crypto SDK                    | PROGRESS  | FRW v2.1       | [Track]() (TBD) |Produce an open source SDK which developers can use to perform crypto enclave using secure enclave|
-| FRW - FlowEVM                                      | PLANNING  | FRW v2.2       | [Track]() (TBD) |Support FlowEVM withing Flow Refernce Wallet.|
+| FRW - FlowEVM                                      | PLANNING  | FRW v2.2       | [Track]() (TBD) |Support FlowEVM within Flow Refernce Wallet.|
 
 ## Meetings
 
