@@ -23,8 +23,8 @@ The Flow Wallet Working Group aims to enhance wallets on Flow through the develo
 
 - Surface human-readable messaging and audited status of a transaction during transaction authorization by using FLIX.
 
-## Roadmap
-
+## Roadmap (TBD)
+ 
 | Features                                           | Status    | Release Target | Progress        |  Comments     |
 | ---------------------------------------------------| --------- | -------------- | --------------- | ------------- |
 | FRW - Secure Encalve (Mobile)                      | PROGRESS  | FRW v2.1       | [Track]() (TBD) |Enables secure enclave support in Flow Reference Wallet|
