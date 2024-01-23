@@ -1,3 +1,7 @@
+> [!CAUTION]
+> This working group repo has been moved to [Flow-Working-Groups/wallet_working_group](https://github.com/onflow/Flow-Working-Groups/tree/main/wallet_working_group)
+> Please do NOT use this repo.
+
 # 🔐 Flow Wallet Working Group
 
 ### Intro
